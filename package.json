@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshmunoz63/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "inquirer": "^7.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Joshmunoz63/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Joshmunoz63/Bamazon#readme"
+}
